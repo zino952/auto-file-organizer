@@ -4,61 +4,61 @@
 
 # This script automatically organizes files in the Downloads folder by categorizing them into subfolders based on their file extensions.
 
-🚀 Features
+# 🚀 Features
 
-📂 Organizes files into categories such as Music, Executables, Scripts, Documents, Images, Videos, Archives, and Others.
+# 📂 Organizes files into categories such as Music, Executables, Scripts, Documents, Images, Videos, Archives, and Others.
 
-🛠️ Automatically creates necessary folders if they don't exist.
+# 🛠️ Automatically creates necessary folders if they don't exist.
 
-🔄 Moves unrecognized file types into the Others folder.
+# 🔄 Moves unrecognized file types into the Others folder.
 
-📂 Supported File Types
+# 📂 Supported File Types
 
-🎵 Music
+# 🎵 Music
 
 .mp3, .wav, .flac, .aac, .ogg, .m4a, .wma
 
-💻 Executables
+# 💻 Executables
 
 .exe, .msi
 
-📝 Scripts
+# 📝 Scripts
 
 .py, .bat, .sh, .js, .ts, .html, .css, .php, .java, .cpp, .c, .cs, .rb, .swift, .go, .rs, .lua, .pl, .r, .kt, .dart
 
-📄 Documents
+# 📄 Documents
 
 .txt, .pdf, .docx, .xlsx, .pptx, .csv, .odt
 
-🖼️ Images
+# 🖼️ Images
 
 .jpg, .png, .gif, .bmp, .jpeg, .tiff, .svg, .webp
 
-🎥 Videos
+# 🎥 Videos
 
 .mp4, .avi, .mkv, .mov, .wmv, .flv, .webm
 
-📦 Archives
+# 📦 Archives
 
 .zip, .rar, .7z, .tar, .gz
 
-❓ Others
+# ❓ Others
 
 Any file that does not fall into the above categories.
 
-🛠️ How to Use
+# 🛠️ How to Use
 
-Run the script using Python:
+# Run the script using Python:
 
-# python main.py
+ python main.py
 
-The script will automatically organize all files in the Downloads folder.
+# The script will automatically organize all files in the Downloads folder.
 
-📌 Requirements
+# 📌 Requirements
 
-Python 3.x
+ Python 3.x
 
-📜 License
+# 📜 License
 
 This project is open-source and free to use.
 
